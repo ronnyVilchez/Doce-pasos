@@ -11,8 +11,8 @@ export const Home = () => {
                 <section className='flex flex-col p-8 gap-4' >
                     <header className='flex flex-row items-center text-[#0067A5] gap-2'>
                         <section className='flex flex-col justify-center'>
-                            <h2 className='text-[2.4vh] font-poppins'>SERVICIOS</h2>
-                            <h2 className='text-[2.4vh] font-poppins text-right'>PARA</h2>
+                            <h2 className='text-[5vw] font-poppins'>SERVICIOS</h2>
+                            <h2 className='text-[5vw] font-poppins text-right'>PARA</h2>
                         </section>
 
                         <section className='flex flex-col '>
@@ -23,7 +23,7 @@ export const Home = () => {
 
                     <section className='flex flex-col w-full items-end '>
                         <button onClick={() => { (setModal(!modal)) }} className='flex flex-row bg-white hover:bg-yellow-200 w-fit px-4 rounded-lg font-semibold text-xl'>
-                            Ver Doce Pasos 🔽
+                            Ver Doce Pasos 
                         </button>
                         {
                             modal && <Aside 
