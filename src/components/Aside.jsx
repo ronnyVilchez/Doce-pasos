@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 export const Aside = ({setModal}) => {
   return (
-    <aside className='bg-white bg-opacity-95 gap-3  rounded-xl w-fit px-8 py-4 flex flex-col absolute right-8 top-[11.5rem] text-sm '>
+    <aside className='bg-white bg-opacity-95 gap-3 rounded-xl w-fit px-8 py-4 flex flex-col text-sm '>
         <Link onClick={()=>setModal(false)} className=' uppercase hover:bg-slate-300 p-[2px] rounded-md' to={"/1"}><strong>Paso 1:</strong> La sinceridad </Link>
         <Link onClick={()=>setModal(false)} className=' uppercase hover:bg-slate-300 p-[2px] rounded-md' to={"/2"}><strong>Paso 2:</strong> La esperanza </Link>
         <Link onClick={()=>setModal(false)} className=' uppercase hover:bg-slate-300 p-[2px] rounded-md' to={"/3"}><strong>Paso 3:</strong> Confiar en Dios </Link>

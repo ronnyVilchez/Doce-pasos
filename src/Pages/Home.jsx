@@ -21,9 +21,9 @@ export const Home = () => {
                         </section>
                     </header>
 
-                    <section className='flex flex-row w-full justify-end '>
+                    <section className='flex flex-col w-full items-end '>
                         <button onClick={() => { (setModal(!modal)) }} className='flex flex-row bg-white hover:bg-yellow-200 w-fit px-4 rounded-lg font-semibold text-xl'>
-                            Secciones
+                            Ver Doce Pasos
                         </button>
                         {
                             modal && <Aside 
