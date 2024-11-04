@@ -8,7 +8,7 @@ export default {
     extend: {
       fontFamily:{
         script: ["Pinyon Script", "cursive"],
-        poppins: ["Poppins", "serif"],
+        poppins: ["Poppins", "sans-serif"],
         Kanit: ["Kanit", "sans-serif"],
        Roboto: ["Roboto", "sans-serif"]
       }
