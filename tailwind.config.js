@@ -10,7 +10,6 @@ export default {
         script: ["Pinyon Script", "cursive"],
         poppins: ["Poppins", "sans-serif"],
         kanit: ["Kanit", "sans-serif"],
-       roboto: ["Roboto", "sans-serif"]
       }
     },
   },
