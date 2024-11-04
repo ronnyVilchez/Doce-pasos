@@ -6,10 +6,11 @@ export default {
   ],
   theme: {
     extend: {
-      fontFamily:{
+      fontFamily: {
         script: ["Pinyon Script", "cursive"],
         poppins: ["Poppins", "sans-serif"],
         kanit: ["Kanit", "sans-serif"],
+        roboto: ["Roboto", "sans-serif"]
       }
     },
   },
