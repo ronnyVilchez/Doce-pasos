@@ -254,7 +254,7 @@ export const PasoUno = () => {
                 </h2>
                 <textarea onChange={(e) => saveResponse(13, e.target.value)} defaultValue={localStorage.getItem('pre13')} className='rounded-xl p-2 outline-none' placeholder='Tú respuesta se guardará automaticamente' rows={4} name="p13" id="p13" />
 
-                <button onClick={() => navigate('/2')} className='w-full h-12 rounded-xl flex justify-center items-center gap-4 bg-[#d19945] font-kanit' >
+                <button onClick={() => navigate('/2')} className='w-full h-12 rounded-xl flex justify-center items-center gap-4 bg-[#d19945] font-semibold font-kanit' >
                     IR AL SIGUIENTE PASO
                 </button>
 
