@@ -19,7 +19,7 @@ export const PasoUno = () => {
     return (
         <section className=" relative bg-cover bg-center bg-fixed min-h-screen bg-[url('/images/fondo1.jpg')] ">
             <section className="absolute inset-0  h-full bg-white bg-opacity-65"></section>
-            <section className="relative z-10  h-full p-6 flex flex-col gap-3 font-Roboto">
+            <section className="relative z-10  h-full p-6 flex flex-col gap-3 font-roboto">
                 <h1 className='font-semibold text-xl text-center'>PASO 1: LA SINCERIDAD</h1>
                 <h2 className='text-center'><strong>PRINCIPIO CLAVE:</strong> Admita la incapacidad para superar sus adicciones por sí mismo y que ha perdido el control de su vida. </h2>
                 <section onClick={() => { setmod1(!mod1) }}>
@@ -58,7 +58,7 @@ export const PasoUno = () => {
                 <span className='text-center uppercase font-semibold'>Pasos a seguir</span>
                 <section className='gap-4 flex flex-col' >
                     <section className='flex flex-row gap-3 items-center bg-[#AA5922] rounded-lg  bg-opacity-25 p-1' onClick={() => { setmod2(!mod2) }}>
-                        <h2 className='font-Kanit cursor-pointer' >
+                        <h2 className='font-kanit cursor-pointer' >
                             Desarrolle la voluntad de abstenerse
                         </h2>
                         {
@@ -85,7 +85,7 @@ export const PasoUno = () => {
                 </section>
                 <section className='gap-4 flex flex-col'>
                     <section className='flex flex-row gap-3 items-center bg-[#AA5922] rounded-lg  bg-opacity-25 p-1' onClick={() => { setmod3(!mod3) }}>
-                        <h2 className='font-Kanit cursor-pointer' >
+                        <h2 className='font-kanit cursor-pointer' >
                             Despójese del orgullo y sea humilde
                         </h2>
                         {
@@ -114,7 +114,7 @@ export const PasoUno = () => {
                 </section>
                 <section className='gap-4 flex flex-col'>
                     <section className='flex flex-row gap-3 items-center bg-[#AA5922] rounded-lg  bg-opacity-25 p-1' onClick={() => { setmod4(!mod4) }}>
-                        <h2 className='font-Kanit cursor-pointer' >
+                        <h2 className='font-kanit cursor-pointer' >
                             Admita el problema; busque ayuda; asista a las reuniones
                         </h2>
                         {
@@ -255,7 +255,7 @@ export const PasoUno = () => {
                 </h2>
                 <textarea onChange={(e) => saveResponse(13, e.target.value)} defaultValue={localStorage.getItem('pre13')} className='rounded-xl p-2 outline-none' placeholder='Tú respuesta se guardará automaticamente' rows={4} name="p13" id="p13" />
 
-                <button onClick={() => navigate('/2')} className='w-full h-12 rounded-xl flex justify-center items-center gap-4 bg-[#d19945] font-Kanit' >
+                <button onClick={() => navigate('/2')} className='w-full h-12 rounded-xl flex justify-center items-center gap-4 bg-[#d19945] font-kanit' >
                     IR AL SIGUIENTE PASO
                 </button>
 

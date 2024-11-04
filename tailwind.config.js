@@ -9,7 +9,7 @@ export default {
       fontFamily:{
         script: ["Pinyon Script", "cursive"],
         poppins: ["Poppins", "sans-serif"],
-        Kanit: ["Kanit", "sans-serif"],
+        kanit: ["Kanit", "sans-serif"],
        Roboto: ["Roboto", "sans-serif"]
       }
     },
