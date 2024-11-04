@@ -7,10 +7,10 @@ export default {
   theme: {
     extend: {
       fontFamily:{
-        "script": ["Pinyon Script", "cursive"],
-        "poppins": ["Poppins", "serif"],
-        "Kanit": ["Kanit", "sans-serif"],
-       "Roboto": ["Roboto", "sans-serif"]
+        script: ["Pinyon Script", "cursive"],
+        poppins: ["Poppins", "serif"],
+        Kanit: ["Kanit", "sans-serif"],
+       Roboto: ["Roboto", "sans-serif"]
       }
     },
   },
