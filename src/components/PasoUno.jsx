@@ -67,10 +67,10 @@ export const PasoUno = () => {
 
                     <section className={`${mod2 ? 'flex' : 'hidden'} flex-col gap-1`}>
                         <p className='text-justify'>
-                            Si bien las adicciones de las personas varían entre sí, algunas verdades, como la que se expresa a continua- ción, nunca cambian: Nada comienza sin que así lo decida la persona. La liberación de la adicción y la purificación comienzan con un pequeño impulso de voluntad. Se dice que finalmente se tiene la voluntad de abstenerse cuando el dolor del problema es peor que el de la solución. ¿Ha llegado usted a ese punto? Si no lo ha hecho y prosigue con su adicción, ciertamente llegará a él, pues la adicción es un problema progresivo. Al igual que una enfermedad degenerativa, la adicción elimina su capacidad para vivir con normalidad.
+                            Si bien las adicciones de las personas varían entre sí, algunas verdades, como la que se expresa a continuación, nunca cambian: Nada comienza sin que así lo decida la persona. La liberación de la adicción y la purificación comienzan con un pequeño impulso de voluntad. Se dice que finalmente se tiene la voluntad de abstenerse cuando el dolor del problema es peor que el de la solución. ¿Ha llegado usted a ese punto? Si no lo ha hecho y prosigue con su adicción, ciertamente llegará a él, pues la adicción es un problema progresivo. Al igual que una enfermedad degenerativa, la adicción elimina su capacidad para vivir con normalidad.
                         </p>
                         <p className='text-justify'>
-                            El único requisito para comenzar la recuperación es el deseo de terminar con su participación en la adicción. Aunque en este momento su deseo sea pequeño e inconstante, no se alarme. ¡Ya crecerá
+                            El único requisito para comenzar la recuperación es el deseo de terminar con su participación en la adicción. Aunque en este momento su deseo sea pequeño e inconstante, no se alarme. ¡Ya crecerá!
                         </p>
                         <p className='text-justify'>
                             Algunas personas reconocen la necesidad de librarse de la adicción, pero posponen su comienzo. Si usted se halla en esa situación, comience reconociendo su falta de voluntad y considerando el coste de su adicción.
@@ -239,7 +239,7 @@ export const PasoUno = () => {
 
                 </p>
                 <h2>
-                    Escriba sobre las circunstancias que le han obli- gado a ser humilde y buscar el arrepentimiento.
+                    Escriba sobre las circunstancias que le han obligado a ser humilde y buscar el arrepentimiento.
                     ¿Qué esperanza le da Alma? ¿Cómo puede usted hallar o recibir esa esperanza?
                 </h2>
                 <textarea onChange={(e) => saveResponse(12, e.target.value)} defaultValue={localStorage.getItem('pre12')} className='rounded-xl p-2 outline-none' placeholder='Tú respuesta se guardará automaticamente' rows={4} name="p12" id="p12" />

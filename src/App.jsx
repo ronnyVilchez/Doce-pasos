@@ -1,15 +1,15 @@
 import React from 'react'
 import { Home } from './Pages/Home'
 import { Route, Router, Routes } from 'react-router-dom'
-import { Aside } from './components/Aside'
 import { PasoUno } from './components/PasoUno'
+import { PasoDos } from './components/PasoDos'
 
 export default function App() {
   return (
     <Routes>
       <Route path='/' element={<Home />} />
        <Route path={"/1"}element={<PasoUno />} />
-       <Route path={"/2"}element={<Aside />} />
+       <Route path={"/2"}element={<PasoDos />} />
        <Route path={"/3"}element={<Home />} />
        <Route path={"/4"}element={<Home />} />
        <Route path={"/5"}element={<Home />} />
