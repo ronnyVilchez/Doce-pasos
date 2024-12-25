@@ -48,7 +48,7 @@ export const PasoTres = () => {
 
                     </p>
                     <p className='text-justify'>
-                        Puede que las primeras veces que acudimos a las reuniones de recuperación nos sintiéramos presiona- dos, o incluso forzados por otros a estar allí, pero dar el paso 3 suponía que debíamos decidir hacerlo por nosotros mismos. Nos dimos cuenta de que un cambio así en nuestra vida debía ser decisión nuestra. Nada tenía que ver con lo que hicieron nuestros padres, lo que estaban haciendo ni con lo que ellos querían. Tampoco se trataba de lo que nuestros cónyuges, nuestras familias o nuestras amistades pensaban, sentían, hacían o dejaban de hacer. Aprendimos que debíamos estar dispuestos a permanecer limpios y sobrios, inde- pendientemente de lo que opinaran o decidieran los demás. Nuestra decisión constituía la sólida base sobre la que descansaba el equilibrio de la recuperación. Al leer en el Libro de Mormón, en Alma 5:13 descubrimos una poderosa validación del paso 3: “Se humillaron, y pusieron su confianza en el Dios verdadero y viviente”.
+                        Puede que las primeras veces que acudimos a las reuniones de recuperación nos sintiéramos presionados, o incluso forzados por otros a estar allí, pero dar el paso 3 suponía que debíamos decidir hacerlo por nosotros mismos. Nos dimos cuenta de que un cambio así en nuestra vida debía ser decisión nuestra. Nada tenía que ver con lo que hicieron nuestros padres, lo que estaban haciendo ni con lo que ellos querían. Tampoco se trataba de lo que nuestros cónyuges, nuestras familias o nuestras amistades pensaban, sentían, hacían o dejaban de hacer. Aprendimos que debíamos estar dispuestos a permanecer limpios y sobrios, independientemente de lo que opinaran o decidieran los demás. Nuestra decisión constituía la sólida base sobre la que descansaba el equilibrio de la recuperación. Al leer en el Libro de Mormón, en Alma 5:13 descubrimos una poderosa validación del paso 3: “Se humillaron, y pusieron su confianza en el Dios verdadero y viviente”.
 
                     </p>
                     <p className='text-justify'>
@@ -108,7 +108,7 @@ export const PasoTres = () => {
                             El bautismo y la Santa Cena simbolizan su amor por Jesucristo y su entrega a Él. Usted concierta un convenio de tomar Su nombre sobre sí, recordarle siempre, seguirle y guardar Sus mandamientos “para que siempre [pueda] tener su espíritu consigo” (Moroni 4:3; véase también Moroni 5:2; D. y C. 20:77, 79).
                         </p>
                         <p className='text-justify'>
-                            Hable con su obispo o presidente de rama sobre su adicción y su decisión de obedecer la voluntad de Dios. Esfuércese por asistir semanalmente a la reunión sacra- mental. Durante la ordenanza de la Santa Cena, preste suma atención a las oraciones sacramentales y considere los dones que le ofrece nuestro Padre Celestial.
+                            Hable con su obispo o presidente de rama sobre su adicción y su decisión de obedecer la voluntad de Dios. Esfuércese por asistir semanalmente a la reunión sacramental. Durante la ordenanza de la Santa Cena, preste suma atención a las oraciones sacramentales y considere los dones que le ofrece nuestro Padre Celestial.
 
                         </p>
                         <p className='text-justify'>
@@ -134,7 +134,7 @@ export const PasoTres = () => {
 
                     <section className={`${mod3 ? 'flex' : 'hidden'} flex-col gap-1`}>
                         <p className='text-justify'>
-                            Esas palabras, adaptadas de una oración de Reinhold Niebuhr y conocidas como la “Oración de la serenidad”, pueden ayudarle cuando decida obedecer a Dios y con- fiar en Él: “Dios, concédeme la serenidad de aceptar las cosas que no puedo cambiar, el valor para cambiar aquello que sí puedo modificar, y la sabiduría para discernir”.
+                            Esas palabras, adaptadas de una oración de Reinhold Niebuhr y conocidas como la “Oración de la serenidad”, pueden ayudarle cuando decida obedecer a Dios y confiar en Él: “Dios, concédeme la serenidad de aceptar las cosas que no puedo cambiar, el valor para cambiar aquello que sí puedo modificar, y la sabiduría para discernir”.
 
                         </p>
                         <p className='text-justify'>
@@ -144,7 +144,7 @@ export const PasoTres = () => {
                             Puede decidir confiar con valor en su Padre Celestial y actuar según Su voluntad. Usted puede entregarle su voluntad y su vida. Puede decidir hacer lo que Él le pida y obedecer Sus mandamientos.
                         </p>
                         <p className='text-justify'>
-                            Tal vez no pueda cambiar ciertas cosas en su vida, pero sí puede cambiar su disposición para confiar en Dios y obedecerle. A medida que aprenda a confiar en Él, verá que el plan que Él tiene para usted consiste en ceñirse a lo que Alma denominó “el gran plan de felicidad” (Alma 42:8). Aprenderá que, aun en medio de aflicciones y dificultades, “a los que aman a Dios” y obedecen Sus mandamientos, “todas las cosas les ayu- dan a bien” (Romanos 8:28; véase también D. y C. 90:24; 98:3; 100:15; 105:40).
+                            Tal vez no pueda cambiar ciertas cosas en su vida, pero sí puede cambiar su disposición para confiar en Dios y obedecerle. A medida que aprenda a confiar en Él, verá que el plan que Él tiene para usted consiste en ceñirse a lo que Alma denominó “el gran plan de felicidad” (Alma 42:8). Aprenderá que, aun en medio de aflicciones y dificultades, “a los que aman a Dios” y obedecen Sus mandamientos, “todas las cosas les ayudan a bien” (Romanos 8:28; véase también D. y C. 90:24; 98:3; 100:15; 105:40).
 
                         </p>
 
@@ -250,7 +250,7 @@ export const PasoTres = () => {
                 </h2>
                 <textarea onChange={(e) => saveResponse(35, e.target.value)} defaultValue={localStorage.getItem('pre35')} className='rounded-xl p-2 outline-none' placeholder='Tú respuesta se guardará automaticamente' rows={4} name="p35" id="p35" />
                 <h2>
-                    Ser humilde es una decisión personal. Satanás intentará hacerle creer que aunque Dios ha ayu- dado a otros, no lo ayudará porque usted está indefenso y desesperado. Reconozca que eso es mentira. Ciertamente, usted es un hijo de Dios.
+                    Ser humilde es una decisión personal. Satanás intentará hacerle creer que aunque Dios ha ayudado a otros, no lo ayudará porque usted está indefenso y desesperado. Reconozca que eso es mentira. Ciertamente, usted es un hijo de Dios.
                     ¿Cómo puede ese conocimiento ayudarle a ser humilde?
                 </h2>
                 <textarea onChange={(e) => saveResponse(36, e.target.value)} defaultValue={localStorage.getItem('pre36')} className='rounded-xl p-2 outline-none' placeholder='Tú respuesta se guardará automaticamente' rows={4} name="p36" id="p36" />
@@ -258,7 +258,7 @@ export const PasoTres = () => {
                     La decisión de iniciar la recuperación
                 </h2>
                 <p className='text-justify'>
-                    “Quisiera que fueseis humildes, que fueseis sumisos y dóciles; fáciles de persuadir; llenos de paciencia y longanimidad; siendo moderados en todas las cosas; siendo diligentes en guardar los mandamientos de Dios en todo momento; pidiendo las cosas que nece- sitéis, tanto espirituales como temporales; siempre dando gracias a Dios por las cosas que recibís” (Alma 7:23).
+                    “Quisiera que fueseis humildes, que fueseis sumisos y dóciles; fáciles de persuadir; llenos de paciencia y longanimidad; siendo moderados en todas las cosas; siendo diligentes en guardar los mandamientos de Dios en todo momento; pidiendo las cosas que necesitéis, tanto espirituales como temporales; siempre dando gracias a Dios por las cosas que recibís” (Alma 7:23).
 
                 </p>
                 <h2>

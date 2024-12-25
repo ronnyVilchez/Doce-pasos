@@ -39,11 +39,11 @@ export const PasoCuatro = () => {
 
                     </p>
                     <p className='text-justify'>
-                        Tal vez en el pasado justificara su mala conducta y culpara a otras personas, lugares o circunstancias de los problemas que usted había ocasionado. Ahora comenzará a aceptar la responsabilidad por sus acciones pasadas y presentes, aun cuando tenga que reconocer hechos, pensamientos, emociones o acciones doloro- sas, vergonzosas o difíciles.
+                        Tal vez en el pasado justificara su mala conducta y culpara a otras personas, lugares o circunstancias de los problemas que usted había ocasionado. Ahora comenzará a aceptar la responsabilidad por sus acciones pasadas y presentes, aun cuando tenga que reconocer hechos, pensamientos, emociones o acciones dolorosas, vergonzosas o difíciles.
 
                     </p>
                     <p className='text-justify'>
-                        Si la idea de realizar un inventario minucioso y valiente de usted mismo le abruma, sepa que no está solo. Entendemos cómo se siente. Recordamos nuestra dificultad para hallar la disposición necesaria para completar este paso. Muchos nos preguntamos si debería- mos evitar por completo el paso 4 y aun así podríamos superar nuestras adicciones; pero finalmente tuvimos que creer las palabras de quienes nos precedieron: “Sin un inventario moral minucioso y valiente... la fe que realmente funciona en el diario vivir sigue estando fuera de nuestro alcance” (Twelve Steps and Twelve Traditions, 1981, pág. 43).
+                        Si la idea de realizar un inventario minucioso y valiente de usted mismo le abruma, sepa que no está solo. Entendemos cómo se siente. Recordamos nuestra dificultad para hallar la disposición necesaria para completar este paso. Muchos nos preguntamos si deberíamos evitar por completo el paso 4 y aun así podríamos superar nuestras adicciones; pero finalmente tuvimos que creer las palabras de quienes nos precedieron: “Sin un inventario moral minucioso y valiente... la fe que realmente funciona en el diario vivir sigue estando fuera de nuestro alcance” (Twelve Steps and Twelve Traditions, 1981, pág. 43).
 
                     </p>
                     <p className='text-justify'>
@@ -73,7 +73,7 @@ export const PasoCuatro = () => {
 
                         <p className='text-justify'>
 
-                            Al efectuar el inventario, mire más allá de sus com- portamientos pasados y examine los pensamientos, los sentimientos y las creencias que provocaron tales conductas. En realidad, los pensamientos, los sentimientos y las creencias son la raíz de su adicción. A menos que examine sus inclinaciones hacia el miedo, el orgullo, el resentimiento, la ira, el egoísmo y la autocompasión, su abstinencia, en el mejor de los casos, será débil y continuará con su adicción original o se pasará a otra. Su adicción es un síntoma de otras “causas y condiciones” (Alcoholics Anonymous, 2001, pág. 64).
+                            Al efectuar el inventario, mire más allá de sus comportamientos pasados y examine los pensamientos, los sentimientos y las creencias que provocaron tales conductas. En realidad, los pensamientos, los sentimientos y las creencias son la raíz de su adicción. A menos que examine sus inclinaciones hacia el miedo, el orgullo, el resentimiento, la ira, el egoísmo y la autocompasión, su abstinencia, en el mejor de los casos, será débil y continuará con su adicción original o se pasará a otra. Su adicción es un síntoma de otras “causas y condiciones” (Alcoholics Anonymous, 2001, pág. 64).
 
                         </p>
                         <p className='text-justify'>
@@ -84,7 +84,7 @@ export const PasoCuatro = () => {
                         </p>
 
                         <p className='text-justify'>
-                            Una vez concluida la lista, busque la guía del Señor para aprender de cada recuerdo. Algunas personas organizan esta parte del inventario en una tabla o gráfica con columnas bajo cada uno de los encabezamien- tos que se indican a continuación con comentarios breves. Otros crean una página para cada entrada de su lista y entonces anotan respuestas en cada una de las cinco categorías.
+                            Una vez concluida la lista, busque la guía del Señor para aprender de cada recuerdo. Algunas personas organizan esta parte del inventario en una tabla o gráfica con columnas bajo cada uno de los encabezamientos que se indican a continuación con comentarios breves. Otros crean una página para cada entrada de su lista y entonces anotan respuestas en cada una de las cinco categorías.
 
                         </p>
                         <p className='text-justify'>
@@ -253,7 +253,7 @@ export const PasoCuatro = () => {
 
                 <h2 className='font-semibold text-lg' > Revise su vida </h2>
                 <p className='text-justify'>
-                    “Con todo amor y sinceridad, te invito a examinar tu vida. ¿Te has desviado de las normas de la felicidad? ¿Hay algún rincón oscuro que debas limpiar? ¿Estás haciendo algo que sabes que es malo? ¿Tienes pensa- mientos impuros? Cuando estás a solas, pensando con claridad, ¿te dice la conciencia que te arrepientas?
+                    “Con todo amor y sinceridad, te invito a examinar tu vida. ¿Te has desviado de las normas de la felicidad? ¿Hay algún rincón oscuro que debas limpiar? ¿Estás haciendo algo que sabes que es malo? ¿Tienes pensamientos impuros? Cuando estás a solas, pensando con claridad, ¿te dice la conciencia que te arrepientas?
                 </p>
 
                 <p className='text-justify'>

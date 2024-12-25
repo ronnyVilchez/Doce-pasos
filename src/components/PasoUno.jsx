@@ -32,18 +32,18 @@ export const PasoUno = () => {
                 <section className={`${mod1 ? 'flex' : 'hidden'} flex-col gap-1`}>
                     <p className='text-justify'>
                         Muchos de nosotros caímos en la adicción movidos por la curiosidad. Algunos quedamos atrapados
-                        en ella por la justificable necesidad de consumir un medicamento con prescripción médica o bien como acto consciente de rebeldía. Muchos inician ese camino apenas entran en la adolescencia. Cualesquiera que fueran los motivos o las circunstancias que nos convirtieron en adictos, no tardamos en descubrir que la adicción aliviaba más que el mero dolor físico, pues proporcionaba estimulación o anulaba los sentimientos y las emociones que generaban dolor. Evitaba que nos enfrentáramos a nuestros problemas, o eso creíamos. Durante un tiempo nos sentimos libres del miedo, de las preocupaciones, de la soledad, del desánimo, del pesar o del aburrimiento. Pero como la vida está repleta de situaciones que provocan ese tipo de sentimientos, cada vez recurrí- amos más a nuestras adicciones. Aun así, la mayoría de nosotros no reconocía ni admitía que hubiéramos perdido la capacidad de resistir y abstenernos. El élder Russell M. Nelson, del Quórum de los Doce, observó: “Con el tiempo, la adicción rinde nuestra libertad de elección. A través de medios químicos, uno puede literalmente privarse a sí mismo de su albedrío” (“Vicio o libertad”, Liahona, enero de 1989, pág. 6).
+                        en ella por la justificable necesidad de consumir un medicamento con prescripción médica o bien como acto consciente de rebeldía. Muchos inician ese camino apenas entran en la adolescencia. Cualesquiera que fueran los motivos o las circunstancias que nos convirtieron en adictos, no tardamos en descubrir que la adicción aliviaba más que el mero dolor físico, pues proporcionaba estimulación o anulaba los sentimientos y las emociones que generaban dolor. Evitaba que nos enfrentáramos a nuestros problemas, o eso creíamos. Durante un tiempo nos sentimos libres del miedo, de las preocupaciones, de la soledad, del desánimo, del pesar o del aburrimiento. Pero como la vida está repleta de situaciones que provocan ese tipo de sentimientos, cada vez recurríamos más a nuestras adicciones. Aun así, la mayoría de nosotros no reconocía ni admitía que hubiéramos perdido la capacidad de resistir y abstenernos. El élder Russell M. Nelson, del Quórum de los Doce, observó: “Con el tiempo, la adicción rinde nuestra libertad de elección. A través de medios químicos, uno puede literalmente privarse a sí mismo de su albedrío” (“Vicio o libertad”, Liahona, enero de 1989, pág. 6).
 
                     </p>
                     <p className='text-justify'>
-                        Rara vez las personas presas de una conducta adictiva admiten su adicción. Para negar la gravedad de nuestra situación y evitar ser arrestados, o sufrir las consecuencias de nuestras decisiones, intentamos restar importancia a nuestro comportamiento, e incluso ocultarlo, sin darnos cuenta de que al engañar a los demás y a nosotros mismos, caíamos más en nuestras adicciones. A medida que crecía nuestra impotencia sobre la adicción, muchos tratamos de culpar a nuestros familiares y amigos, a los líderes de la Iglesia e incluso a Dios. Cada vez nos aislábamos más y nos ale- jábamos de las personas y, concretamente, de Dios.
+                        Rara vez las personas presas de una conducta adictiva admiten su adicción. Para negar la gravedad de nuestra situación y evitar ser arrestados, o sufrir las consecuencias de nuestras decisiones, intentamos restar importancia a nuestro comportamiento, e incluso ocultarlo, sin darnos cuenta de que al engañar a los demás y a nosotros mismos, caíamos más en nuestras adicciones. A medida que crecía nuestra impotencia sobre la adicción, muchos tratamos de culpar a nuestros familiares y amigos, a los líderes de la Iglesia e incluso a Dios. Cada vez nos aislábamos más y nos alejábamos de las personas y, concretamente, de Dios.
                     </p>
                     <p className='text-justify'>
                         Cuando nosotros, adictos, recurrimos a las mentiras y al secreto con la esperanza de excusarnos o de culpar a otros, nos debilitamos espiritualmente. Con cada acto de insinceridad, nos atamos a nosotros mismos con un “cordel de lino” que pronto se tornó en fuertes cadenas (véase 2 Nefi 26:22), y no tardamos en tener que encarar la realidad. Ya no podíamos ocultar por más tiempo nuestras adicciones con otra mentira o diciendo: “¡No es tan grave!”.
                     </p>
                     <p className='text-justify'>
-                        Un ser querido, un doctor, un juez o un líder eclesiástico nos dijo la verdad que ya no podíamos seguir negando: la adicción estaba destruyendo nuestra vida. Al volver la mirada sinceramente hacia el pasado, admitimos que nada de lo que habíamos intentado por no- sotros mismos había tenido éxito y reconocimos que
-                        la adicción simplemente había empeorado. Nos dimos cuenta de lo mucho que nuestras adicciones habían dañado nuestras relaciones y nos habían despojado de cualquier sentimiento de autoestima. En este punto, dimos el primer paso hacia la libertad y la recuperación, y hallamos valor para admitir que nos enfrentábamos a algo más que un mero problema o un mal hábito. Finalmente, admitimos la verdad de que habíamos perdido el control de nuestra vida y que necesitá- bamos ayuda para superar las adicciones. Lo sorprendente de esa sincera aceptación de la derrota es que por fin se inició la recuperación.
+                        Un ser querido, un doctor, un juez o un líder eclesiástico nos dijo la verdad que ya no podíamos seguir negando: la adicción estaba destruyendo nuestra vida. Al volver la mirada sinceramente hacia el pasado, admitimos que nada de lo que habíamos intentado por nosotros mismos había tenido éxito y reconocimos que
+                        la adicción simplemente había empeorado. Nos dimos cuenta de lo mucho que nuestras adicciones habían dañado nuestras relaciones y nos habían despojado de cualquier sentimiento de autoestima. En este punto, dimos el primer paso hacia la libertad y la recuperación, y hallamos valor para admitir que nos enfrentábamos a algo más que un mero problema o un mal hábito. Finalmente, admitimos la verdad de que habíamos perdido el control de nuestra vida y que necesitábamos ayuda para superar las adicciones. Lo sorprendente de esa sincera aceptación de la derrota es que por fin se inició la recuperación.
 
                     </p>
                     <p className='text-justify'>
@@ -74,11 +74,11 @@ export const PasoUno = () => {
                         </p>
                         <p className='text-justify'>
                             Algunas personas reconocen la necesidad de librarse de la adicción, pero posponen su comienzo. Si usted se halla en esa situación, comience reconociendo su falta de voluntad y considerando el coste de su adicción.
-                            Anote aquello que sea importante para usted. Piense en su familia, sus amistades, su relación con Dios, su fortaleza espiritual, su capacidad para ayudar y bende- cir a otras personas, o su salud. Después reflexione en las contradicciones que hay entre lo que usted cree y espera, y en su conducta. Observe cómo sus acciones minan aquello que valora. Ore para que el Señor le ayude a verse a usted mismo y a su vida tal y como Él lo ve, con todo su potencial divino, pero también con el riesgo que corre al continuar con su adicción.
+                            Anote aquello que sea importante para usted. Piense en su familia, sus amistades, su relación con Dios, su fortaleza espiritual, su capacidad para ayudar y bendecir a otras personas, o su salud. Después reflexione en las contradicciones que hay entre lo que usted cree y espera, y en su conducta. Observe cómo sus acciones minan aquello que valora. Ore para que el Señor le ayude a verse a usted mismo y a su vida tal y como Él lo ve, con todo su potencial divino, pero también con el riesgo que corre al continuar con su adicción.
 
                         </p>
                         <p className='text-justify'>
-                            El reconocimiento de lo que pierde al proseguir con su adicción le ayudará a encontrar el deseo de erradi- carla. Aun el deseo más pequeño le permitirá comenzar con el paso 1; y cuando avance siguiendo los pasos de este programa y vea los cambios que tienen lugar en su vida, su deseo crecerá.
+                            El reconocimiento de lo que pierde al proseguir con su adicción le ayudará a encontrar el deseo de erradicarla. Aun el deseo más pequeño le permitirá comenzar con el paso 1; y cuando avance siguiendo los pasos de este programa y vea los cambios que tienen lugar en su vida, su deseo crecerá.
                         </p>
                     </section>
                 </section>
@@ -94,20 +94,20 @@ export const PasoUno = () => {
 
                     <section className={`${mod3 ? 'flex' : 'hidden'} flex-col gap-1`}>
                         <p className='text-justify'>
-                            El orgullo y la sinceridad no pueden coexistir. El orgullo es un espejismo, constituye un elemento esen- cial de toda adicción y manipula la verdad de las cosas como son, como han sido y como serán. Es el principal obstáculo para su recuperación. El Presidente Ezra Taft Benson definió el orgullo con las siguientes palabras:
+                            El orgullo y la sinceridad no pueden coexistir. El orgullo es un espejismo, constituye un elemento esencial de toda adicción y manipula la verdad de las cosas como son, como han sido y como serán. Es el principal obstáculo para su recuperación. El Presidente Ezra Taft Benson definió el orgullo con las siguientes palabras:
                         </p>
                         <p className='text-justify'>
                             “El orgullo es un pecado muy mal interpretado...
-                            “La mayoría de nosotros piensa en el orgullo como egoísmo, vanidad, jactancia, arrogancia o altivez; aun- que todos éstos son elementos que forman parte de ese pecado, su núcleo no está en ellos.
+                            “La mayoría de nosotros piensa en el orgullo como egoísmo, vanidad, jactancia, arrogancia o altivez; aunque todos éstos son elementos que forman parte de ese pecado, su núcleo no está en ellos.
                         </p>
                         <p className='text-justify'>
-                            “La característica principal del orgullo es la ene- mistad: enemistad hacia Dios y enemistad hacia nues- tros semejantes. Enemistad significa ‘aversión, odio, resentimiento u oposición’. Es el poder por el cual Satanás desea dominarnos.
+                            “La característica principal del orgullo es la enemistad: enemistad hacia Dios y enemistad hacia nuestros semejantes. Enemistad significa ‘aversión, odio, resentimiento u oposición’. Es el poder por el cual Satanás desea dominarnos.
                             “El orgullo en su naturaleza fomenta la competencia.
-                            Oponemos nuestra voluntad a la de Dios. Cuando lo hacemos blanco a Él de nuestro orgullo, es con la acti- tud de decir: ‘Que se haga mi voluntad y no la tuya’...
+                            Oponemos nuestra voluntad a la de Dios. Cuando lo hacemos blanco a Él de nuestro orgullo, es con la actitud de decir: ‘Que se haga mi voluntad y no la tuya’...
                             “Nuestra voluntad en competencia con la de Dios deja que nuestros deseos, apetitos y pasiones corran desenfrenados (véase Alma 38:12; 3 Nefi 12:30).
                             “Los orgullosos no pueden aceptar que la autoridad de Dios dé dirección a su vida (véase Helamán 12:6).
                             Ellos oponen sus percepciones de la verdad contra el conocimiento omnisciente de Dios, su capacidad contra el poder del Sacerdocio de Dios, sus propios logros contra las obras grandiosas de Él” (“Cuidaos del orgullo”, Liahona, julio de 1989, págs. 3–4).
-                            A medida que desee abstenerse y admita los proble- mas que enfrenta, la humildad reemplazará gradual- mente al orgullo.
+                            A medida que desee abstenerse y admita los problemas que enfrenta, la humildad reemplazará gradualmente al orgullo.
                         </p>
                     </section>
                 </section>
@@ -123,14 +123,14 @@ export const PasoUno = () => {
 
                     <section className={`${mod4 ? 'flex' : 'hidden'} flex-col gap-1`}>
                         <p className='text-justify'>
-                            Mientras satisfacíamos nuestras adicciones, nos engañábamos a nosotros mismos y a los demás, aun- que en realidad no lográbamos engañarnos a nosotros mismos. Fingíamos estar bien, repletos de bravucone- rías y excusas, pero en lo más recóndito de nuestro ser sabíamos la verdad. La Luz de Cristo seguía recordán- donoslo. Sabíamos que caíamos irremediablemente hacia un pesar cada vez más grande. La negación de esta verdad era algo tan arduo, que finalmente fue
+                            Mientras satisfacíamos nuestras adicciones, nos engañábamos a nosotros mismos y a los demás, aunque en realidad no lográbamos engañarnos a nosotros mismos. Fingíamos estar bien, repletos de bravuconerías y excusas, pero en lo más recóndito de nuestro ser sabíamos la verdad. La Luz de Cristo seguía recordándonoslo. Sabíamos que caíamos irremediablemente hacia un pesar cada vez más grande. La negación de esta verdad era algo tan arduo, que finalmente fue
                             un gran alivio admitir que teníamos un problema.
-                            De repente dejamos que entrara un pequeño rayo de esperanza. Cuando decidimos admitir ante nosotros mismos que teníamos un problema y estuvimos dis- puestos a solicitar apoyo y ayuda, ofrecimos a esa esperanza lugar donde crecer. Entonces estuvimos preparados para dar el siguiente paso y asistir a una reunión de recuperación.
+                            De repente dejamos que entrara un pequeño rayo de esperanza. Cuando decidimos admitir ante nosotros mismos que teníamos un problema y estuvimos dispuestos a solicitar apoyo y ayuda, ofrecimos a esa esperanza lugar donde crecer. Entonces estuvimos preparados para dar el siguiente paso y asistir a una reunión de recuperación.
 
                         </p>
                         <p className='text-justify'>
                             Tal vez no siempre sea factible participar en un grupo de apoyo o asistir a una reunión de recuperación.
-                            Aunque no pueda hacerlo, siempre es posible seguir cada uno de los pasos, con ligeras modificaciones, ayudado por su obispo o un asesor profesional seleccio- nado cuidadosamente.
+                            Aunque no pueda hacerlo, siempre es posible seguir cada uno de los pasos, con ligeras modificaciones, ayudado por su obispo o un asesor profesional seleccionado cuidadosamente.
                         </p>
                         <p className='text-justify'>
                             Cuando le sea posible asistir a una reunión de recuperación, reconocerá su utilidad como mínimo por dos razones. En primer lugar: Porque en esas reuniones estudiará principios específicos del Evangelio que, al vivirlos, le ayudarán a modificar su conducta. El presidente Boyd K. Packer, del Quórum de los Doce, enseñó: “El estudio de la doctrina del Evangelio mejorará el comportamiento de las personas mas fácilmente que el estudio sobre el comportamiento humano. La obsesión por una conducta indigna puede conducir a una conducta indigna, de ahí que hagamos tanto hincapié en el estudio de la doctrina del Evangelio” (“Los niños pequeños”, Liahona, enero de 1987, pág. 15). En segundo lugar: Estas reuniones constituyen un punto de encuentro con otras personas que desean recuperarse y con las que ya han seguido ese camino, y son una prueba viviente de su eficacia. En las reuniones de recuperación hallará comprensión, esperanza y apoyo.
@@ -150,7 +150,7 @@ export const PasoUno = () => {
                         Además, este estudio aumentará su comprensión y le permitirá aprender.
                     </p>
                     <p className='text-justify'>
-                        Si lo desea, puede emplear los pasajes de las Escrituras, las citas y las preguntas siguientes en su estudio personal acompañado de oración, en sus escritos o en los análisis en grupo. Tal vez le asuste la idea de escribir, pero esta actividad constituye una herramienta poderosa para su recuperación. Le dará tiempo para reflexionar; le ayudará a dirigir sus pensamientos; le permitirá ver y entender los asuntos, las ideas y los comportamientos relacionados con su adicción. Al escribir, contará con un registro de sus pensamientos. A medida que siga esos pasos, podrá constatar su progreso. Por ahora, basta con ser sin- cero al escribir sus pensamientos, sus sentimientos y sus impresiones.
+                        Si lo desea, puede emplear los pasajes de las Escrituras, las citas y las preguntas siguientes en su estudio personal acompañado de oración, en sus escritos o en los análisis en grupo. Tal vez le asuste la idea de escribir, pero esta actividad constituye una herramienta poderosa para su recuperación. Le dará tiempo para reflexionar; le ayudará a dirigir sus pensamientos; le permitirá ver y entender los asuntos, las ideas y los comportamientos relacionados con su adicción. Al escribir, contará con un registro de sus pensamientos. A medida que siga esos pasos, podrá constatar su progreso. Por ahora, basta con ser sincero al escribir sus pensamientos, sus sentimientos y sus impresiones.
                     </p>
                 </section>
 
@@ -195,7 +195,7 @@ export const PasoUno = () => {
                 </h2>
                 <textarea onChange={(e) => saveResponse(7, e.target.value)} defaultValue={localStorage.getItem('pre7')} className='rounded-xl p-2 outline-none' placeholder='Tú respuesta se guardará automaticamente' rows={4} name="p7" id="p7" />
                 <h2>
-                    Escriba sobre cómo el reconocimiento de su impo- tencia para superar sus adicciones por sí mismo puede llevarle a admitir su propia nulidad y tornarse en un niño pequeñito.
+                    Escriba sobre cómo el reconocimiento de su impotencia para superar sus adicciones por sí mismo puede llevarle a admitir su propia nulidad y tornarse en un niño pequeñito.
                 </h2>
                 <textarea onChange={(e) => saveResponse(8, e.target.value)} defaultValue={localStorage.getItem('pre8')} className='rounded-xl p-2 outline-none' placeholder='Tú respuesta se guardará automaticamente' rows={4} name="p8" id="p8" />
                 <h2 className='font-semibold'>
@@ -233,7 +233,7 @@ export const PasoUno = () => {
                     La humildad
                 </h2>
                 <p className='text-justify'>
-                    “Y porque sois obligados a ser humildes, benditos sois; porque en ocasiones el hombre, si se ve obli- gado a ser humilde, busca el arrepentimiento; y de seguro, el que se arrepienta hallará misericordia;
+                    “Y porque sois obligados a ser humildes, benditos sois; porque en ocasiones el hombre, si se ve obligado a ser humilde, busca el arrepentimiento; y de seguro, el que se arrepienta hallará misericordia;
                     y quien halle misericordia y persevere hasta el fin, será salvo” (Alma 32:13).
 
 
