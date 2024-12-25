@@ -8,6 +8,7 @@ import { PasoCuatro } from './components/PasoCuatro'
 import { PasoCinco } from './components/PasoCinco'
 import { PasoSeis } from './components/PasoSeis'
 import { PasoSiete } from './components/PasoSiete'
+import { PasoOcho } from './components/PasoOcho'
 
 export default function App() {
   return (
@@ -20,7 +21,7 @@ export default function App() {
       <Route path={"/5"} element={<PasoCinco />} />
       <Route path={"/6"} element={<PasoSeis />} />
       <Route path={"/7"} element={<PasoSiete />} />
-      <Route path={"/8"} element={<Home />} />
+      <Route path={"/8"} element={<PasoOcho />} />
       <Route path={"/9"} element={<Home />} />
       <Route path={"/10"} element={<Home />} />
       <Route path={"/11"} element={<Home />} />

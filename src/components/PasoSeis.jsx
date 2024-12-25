@@ -19,8 +19,8 @@ export const PasoSeis = () => {
     return (
         <section className=" relative bg-cover bg-center bg-fixed min-h-screen bg-[url('/images/fondo1.jpg')] ">
             <section className="absolute inset-0  h-full bg-white bg-opacity-65"></section>
-            <section className="relative z-10  h-full p-6 flex flex-col gap-3 font-roboto">
-                <h1 className='font-semibold text-xl text-center'>PASO 6: EL CAMBIO DE CORAZÓN</h1>
+            <section className="relative z-10 sm:px-24 sm:py-12 sm:gap-5 sm:text-[1.5vw]  h-full p-6 flex flex-col gap-3 font-roboto">
+                <h1 className='font-semibold text-xl sm:text-3xl  text-center'>PASO 6: EL CAMBIO DE CORAZÓN</h1>
                 <h2 className='text-center'><strong>PRINCIPIO CLAVE:</strong> Prepárese por completo para que Dios erradique todas las debilidades de su carácter. </h2>
                 <section onClick={() => { setmod1(!mod1) }}>
                     {
