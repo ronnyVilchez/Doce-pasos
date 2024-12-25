@@ -246,7 +246,7 @@ export const PasoDoce = () => {
                         {"<"} PASO ANTERIOR
                     </button>
                     <button onClick={() => navigate('/')} className='w-full h-12 rounded-xl flex justify-center items-center gap-4 bg-[#d19945] font-semibold font-kanit' >
-                        SIGUIENTE PASO {">"}
+                        INICIO {">"}
                     </button>
                 </section>
 
